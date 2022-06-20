@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "https://myself-i-me.github.io/csb-3m25m4/static/js/main.d1720834.chunk.js",
-    "main.js.map": "https://myself-i-me.github.io/csb-3m25m4/static/js/main.d1720834.chunk.js.map",
+    "main.css": "https://myself-i-me.github.io/csb-3m25m4/static/css/main.10d6a708.chunk.css",
+    "main.js": "https://myself-i-me.github.io/csb-3m25m4/static/js/main.8d5b2858.chunk.js",
+    "main.js.map": "https://myself-i-me.github.io/csb-3m25m4/static/js/main.8d5b2858.chunk.js.map",
     "runtime-main.js": "https://myself-i-me.github.io/csb-3m25m4/static/js/runtime-main.01ffd9e2.js",
     "runtime-main.js.map": "https://myself-i-me.github.io/csb-3m25m4/static/js/runtime-main.01ffd9e2.js.map",
     "static/js/2.c9335df9.chunk.js": "https://myself-i-me.github.io/csb-3m25m4/static/js/2.c9335df9.chunk.js",
     "static/js/2.c9335df9.chunk.js.map": "https://myself-i-me.github.io/csb-3m25m4/static/js/2.c9335df9.chunk.js.map",
     "index.html": "https://myself-i-me.github.io/csb-3m25m4/index.html",
-    "precache-manifest.da25314025485272c51efc9a4c93b14a.js": "https://myself-i-me.github.io/csb-3m25m4/precache-manifest.da25314025485272c51efc9a4c93b14a.js",
+    "precache-manifest.f01794d685f9a87a4b57f9e63f5d8c51.js": "https://myself-i-me.github.io/csb-3m25m4/precache-manifest.f01794d685f9a87a4b57f9e63f5d8c51.js",
     "service-worker.js": "https://myself-i-me.github.io/csb-3m25m4/service-worker.js",
+    "static/css/main.10d6a708.chunk.css.map": "https://myself-i-me.github.io/csb-3m25m4/static/css/main.10d6a708.chunk.css.map",
     "static/js/2.c9335df9.chunk.js.LICENSE.txt": "https://myself-i-me.github.io/csb-3m25m4/static/js/2.c9335df9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01ffd9e2.js",
     "static/js/2.c9335df9.chunk.js",
-    "static/js/main.d1720834.chunk.js"
+    "static/css/main.10d6a708.chunk.css",
+    "static/js/main.8d5b2858.chunk.js"
   ]
 }
